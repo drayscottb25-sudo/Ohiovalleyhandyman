@@ -18,6 +18,17 @@
 <h2>Serving the Ohio Valley Area</h2>
 
 <style>
+<section style="padding:30px;background:#f9fafb;">
+<h2>Serving the Ohio Valley Area</h2>
+
+<p>
+We provide handyman and home repair services throughout the Ohio Valley region, helping homeowners with fast, affordable repairs.
+</p>
+
+<p>
+Services include drywall repair, plumbing fixes, electrical work, deck repair, painting, and general home maintenance.
+</p>
+</section>
     body {
         font-family: Arial, sans-serif;
         margin: 0;
