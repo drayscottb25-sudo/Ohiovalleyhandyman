@@ -100,6 +100,11 @@
 </section>
 
 <section class="services">
+<div class="card">Before & After Drywall Repair</div>
+<div class="card">Kitchen Faucet Replacement</div>
+<div class="card">Deck Restoration</div>
+<div class="card">Fence Repair Work</div>
+</section>
     <div class="card">Drywall Repair</div>
     <div class="card">Plumbing Repairs</div>
     <div class="card">Electrical Help</div>
